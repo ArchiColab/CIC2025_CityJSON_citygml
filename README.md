@@ -20,3 +20,6 @@ citygml-tools can be run on any platform providing appropriate Java support.
 Download the CityGML file of Vienna from the following link:
 https://3d.bk.tudelft.nl/opendata/cityjson/3dcities/citygml/Vienna_102081.gml
 Convert the CityGML file into CityJSON with citygml-tools.
+
+## Preview cityjson file
+https://ninja.cityjson.org/#
